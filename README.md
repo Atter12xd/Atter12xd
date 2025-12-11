@@ -1,16 +1,32 @@
-## Hi there 👋
+👋 Hola, soy Atter
 
-<!--
-**Atter12xd/Atter12xd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador de Software | Apps Android | IA & Automatización
 
-Here are some ideas to get you started:
+Construyo soluciones reales para negocios:
+• Aplicaciones móviles publicables en Google Play
+• Sistemas web modernos
+• Chatbots con IA
+• Automatizaciones con APIs y n8n
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tecnologías que uso
+
+Frontend: Astro · React · Tailwind
+Backend: Node.js · Express · Supabase
+Mobile: React Native · Expo
+IA: Python · OpenAI · Computer Vision
+Automatización: n8n · Webhooks · APIs REST
+
+📌 Lo que hago
+
+✔ Apps Android completas
+✔ Sistemas para negocios
+✔ Dashboards y paneles admin
+✔ Integraciones con Shopify
+✔ Proyectos rápidos y escalables
+
+📫 Contáctame
+
+WhatsApp: https://wa.me/51933484150
+
+Correo: ferbasiliorengifo@gmail.com
+ 
