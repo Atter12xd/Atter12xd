@@ -12,7 +12,7 @@
 
 ## 🚀 Sobre mí
 
-Construyo **soluciones reales para negocios**:
+Construyo **soluciones reales para negocios en 2025**:
 
 - 📱 Aplicaciones móviles publicables en **Google Play**
 - 🌐 Sistemas web modernos y escalables
@@ -21,7 +21,7 @@ Construyo **soluciones reales para negocios**:
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 2025
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -35,7 +35,7 @@ Construyo **soluciones reales para negocios**:
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 Estadísticas de GitHub 2025
 
 <div align="center">
 
@@ -50,7 +50,7 @@ Construyo **soluciones reales para negocios**:
 
 ---
 
-## 📌 Lo que hago
+## 📌 Lo que hago en 2025
 
 ✔️ **Apps Android completas** con React Native/Expo  
 ✔️ **Sistemas para negocios** con dashboards modernos  
@@ -73,6 +73,6 @@ Construyo **soluciones reales para negocios**:
 
 <div align="center">
 
-**💡 Siempre abierto a nuevos proyectos y colaboraciones**
+**💡 Siempre abierto a nuevos proyectos y colaboraciones | 2025**
 
 </div>
