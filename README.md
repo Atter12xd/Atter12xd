@@ -39,9 +39,12 @@ Construyo **soluciones reales para negocios**:
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Atter12xd&show_icons=true&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Atter12xd&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atter12xd&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Atter12xd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atter12xd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Atter12xd&theme=tokyo-night&hide_border=true)
 
 </div>
 
@@ -70,9 +73,6 @@ Construyo **soluciones reales para negocios**:
 
 <div align="center">
 
-![GitHub Snake](https://github.com/Atter12xd/Atter12xd/blob/output/github-contribution-grid-snake.svg)
-
 **💡 Siempre abierto a nuevos proyectos y colaboraciones**
 
 </div>
- 
